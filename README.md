@@ -26,3 +26,7 @@ Where are customers with a high lifetime value based?
 Do sales ﬁgures vary between geographic regions?
 
 **Provided Database:**
+
+[Customers Data Set](https://github.com/mariaguarita/Grocieres-sales-patterns/files/9833383/customers.1.zip)
+
+[Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
